@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="copyright" content="All Rights Reserved, Copyright (C) 2020, Ltd." />
-<title>外卖系统后台管理主页</title>
+<title>饿了否外卖平台后台管理主页</title>
 <link rel="stylesheet" type="text/css" href="../resources/admin/easyui/easyui/1.3.4/themes/default/easyui.css" />
 <link rel="stylesheet" type="text/css" href="../resources/admin/easyui/css/wu.css" />
 <link rel="stylesheet" type="text/css" href="../resources/admin/easyui/css/icon.css" />
@@ -34,11 +34,11 @@
 	<!-- begin of header -->
 	<div class="wu-header" data-options="region:'north',border:false,split:true">
     	<div class="wu-header-left">
-        	<h1>外卖系统后台管理系统</h1>
+        	<h1>饿了否外卖平台后台管理系统</h1>
         </div>
         <div class="wu-header-right">
         	<p><strong class="easyui-tooltip" title="0条未读消息">${role.name}:${admin.username}</strong>，欢迎您！</p>
-            <p><a href="../home/index/index" target="_blank">网站首页</a>|<a href="logout">安全退出</a></p>
+            <p><a href="../home/index/index" target="_blank">网站首页</a>|<a href="logout">退出系统</a></p>
         </div>
     </div>
     <!-- end of header -->
