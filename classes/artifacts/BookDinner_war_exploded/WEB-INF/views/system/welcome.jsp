@@ -6,7 +6,7 @@
 <title>欢迎页面</title>
 </head>
 <body>
-<div title="welcome" style="padding:20px;overflow:hidden; color:red; " >
+<div title="welcome" style="padding:20px;overflow:hidden; color:black; " >
 	<p style="font-size: 50px; line-height: 60px; height: 60px;">     ${admin.username}</p>
 	<p style="font-size: 55px; line-height: 30px; height: 30px;">     欢迎使用ssm框架外卖订餐管理系统</p>
 </div>
