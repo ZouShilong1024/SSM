@@ -23,7 +23,7 @@
     </div>
     <footer class="footFix footLeft">
         <button id="myOrder" class="btn_change">
-            菜篮子
+            购物车
             <!--span class="num">9</span-->
         </button>
     </footer>
@@ -57,7 +57,7 @@
     <section class="oder_submit">
         <div class="container">
             <a style="" href="../user/index" class="button button-rounded button-flat-action fr mgtbr8">
-               订单中心
+               购物中心
             </a>
             <button class="button button-rounded button-flat-action fr mgtbr8" id="submitOrder">
                 下单
